@@ -20,7 +20,7 @@ body {
 .nav__menu a { text-decoration: none; color: #1f2933; }
 
 .hero { text-align: center; padding: 4rem 2rem; }
-.hero h1 { font-size: 2rem; margin-bottom: 1rem; color: var(--color-bg); }
+.hero h1 { font-size: 2rem; margin-bottom: 1rem; color: var(--color-text); }
 .hero p { color: #64748b; margin-bottom: 2rem; }
 
 .btn { padding: 0.75rem 1.5rem; border: none; border-radius: 6px; font-size: 1rem; cursor: pointer; }
